@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndyYoungAlum", "AndyYoungAlum\AndyYoungAlum.csproj", "{190B3BAC-E043-4B33-AA33-059B3A6EB1CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndyYoungAlumDataLib", "AndyYoungAlumDataLib\AndyYoungAlumDataLib.csproj", "{F0FF3C4C-B52D-40BF-8CCF-1079845198BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{190B3BAC-E043-4B33-AA33-059B3A6EB1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190B3BAC-E043-4B33-AA33-059B3A6EB1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190B3BAC-E043-4B33-AA33-059B3A6EB1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190B3BAC-E043-4B33-AA33-059B3A6EB1CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0FF3C4C-B52D-40BF-8CCF-1079845198BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0FF3C4C-B52D-40BF-8CCF-1079845198BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0FF3C4C-B52D-40BF-8CCF-1079845198BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0FF3C4C-B52D-40BF-8CCF-1079845198BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
